@@ -6,4 +6,8 @@ I wanted to make some custom content for my DarkRP server which I gave up on now
 
 ### Credits
 Me - shitty coding, keystroke sounds
+
 Apple - startup sound
+
+
+#### Feel free to contribute
